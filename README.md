@@ -63,7 +63,7 @@ Lecture vidéo : Tutoriel UML [1080p]
 Démarrage du flux en direct : Concert en direct – http://live.example.com
 Lecture audio : Musique Classique
 
-Durée totale (sec) : 4200
+Durée totale (sec) : 5100
 
 ```
 
